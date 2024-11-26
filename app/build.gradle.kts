@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "carreiras.com.github.ktlandr_dlvr"
-    compileSdk = 34
+    compileSdk = 35 // Atualizado para a versão 35
 
     defaultConfig {
         applicationId = "carreiras.com.github.ktlandr_dlvr"
